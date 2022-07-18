@@ -1,0 +1,8 @@
+2022-07-09T09:12:02.254483 404 : [{"timestamp":"2022-07-09T13:12:02.238+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/balance"}]
+2022-07-09T09:21:39.2020342 404 : [{"timestamp":"2022-07-09T13:21:39.170+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/balance"}]
+2022-07-09T10:36:25.7496406 500 : [{"timestamp":"2022-07-09T14:36:25.741+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.dao.UserDao.findIdByUsername(String)\" because \"this.userDao\" is null","path":"/transfer"}]
+2022-07-09T10:38:40.023527 500 : [{"timestamp":"2022-07-09T14:38:40.005+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.dao.UserDao.findIdByUsername(String)\" because \"this.userDao\" is null","path":"/transfer"}]
+2022-07-09T10:40:40.4602515 404 : [{"timestamp":"2022-07-09T14:40:40.440+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/balance"}]
+2022-07-09T12:10:02.869795 400 : [{"timestamp":"2022-07-09T16:10:02.849+00:00","status":400,"error":"Bad Request","message":"Required int parameter 'transferId' is not present","path":"/transfer/3009/details"}]
+2022-07-09T12:11:41.2231175 400 : [{"timestamp":"2022-07-09T16:11:41.204+00:00","status":400,"error":"Bad Request","message":"Required int parameter 'transferId' is not present","path":"/transfer/3009/details"}]
+2022-07-09T12:12:47.3839653 400 : [{"timestamp":"2022-07-09T16:12:47.365+00:00","status":400,"error":"Bad Request","message":"Required int parameter 'transferId' is not present","path":"/transfer/3009/details"}]

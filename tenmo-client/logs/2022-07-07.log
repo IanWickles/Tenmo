@@ -1,0 +1,21 @@
+2022-07-07T08:53:15.7801786 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-07T09:00:57.3583278 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-07T09:01:06.8422236 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-07T09:04:16.7788923 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-07T09:21:37.682167 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-07T08:54:47.6256495 401 : [no body]
+2022-07-07T08:54:55.3817718 401 : [no body]
+<<<<<<< HEAD
+2022-07-07T12:47:36.2562244 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-07T15:09:13.4154886 404 : [{"timestamp":"2022-07-07T19:09:13.399+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfer"}]
+2022-07-07T15:14:06.8755851 404 : [{"timestamp":"2022-07-07T19:14:06.867+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfer"}]
+2022-07-07T15:19:35.8618816 405 : [{"timestamp":"2022-07-07T19:19:32.164+00:00","status":405,"error":"Method Not Allowed","message":"Request method 'POST' not supported","path":"/transfer"}]
+2022-07-07T15:30:47.1867041 405 : [{"timestamp":"2022-07-07T19:30:39.725+00:00","status":405,"error":"Method Not Allowed","message":"Request method 'POST' not supported","path":"/transfer/1002"}]
+=======
+2022-07-07T12:37:05.0507616 404 : [{"timestamp":"2022-07-07T16:37:04.984+00:00","status":404,"error":"Not Found","message":"No message available","path":"/login"}]
+2022-07-07T12:37:30.0336411 404 : [{"timestamp":"2022-07-07T16:37:30.011+00:00","status":404,"error":"Not Found","message":"No message available","path":"/login"}]
+2022-07-07T15:13:58.0175224 404 : [{"timestamp":"2022-07-07T19:13:57.997+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfer"}]
+2022-07-07T16:08:34.8308885 400 : [{"timestamp":"2022-07-07T20:08:34.814+00:00","status":400,"error":"Bad Request","message":"Required request body is missing: public boolean com.techelevator.tenmo.controller.TransferController.transferMoney(com.techelevator.tenmo.model.Transfer,java.security.Principal)","path":"/transfer"}]
+2022-07-07T16:09:04.4481914 400 : [{"timestamp":"2022-07-07T20:09:04.447+00:00","status":400,"error":"Bad Request","message":"Required request body is missing: public boolean com.techelevator.tenmo.controller.TransferController.transferMoney(com.techelevator.tenmo.model.Transfer,java.security.Principal)","path":"/transfer"}]
+2022-07-07T16:20:04.5905587 400 : [{"timestamp":"2022-07-07T20:20:04.571+00:00","status":400,"error":"Bad Request","message":"Required request body is missing: public boolean com.techelevator.tenmo.controller.TransferController.transferMoney(com.techelevator.tenmo.model.Transfer,java.security.Principal)","path":"/transfer"}]
+>>>>>>> b3b8d0615f66850674c3dab5e0d671ffbaecd2ef

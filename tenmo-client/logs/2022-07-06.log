@@ -1,0 +1,14 @@
+2022-07-06T12:50:03.7815274 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T12:50:21.9319545 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T12:50:34.0765335 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T12:52:05.7770893 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T12:53:04.3636035 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T12:54:23.2232594 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T12:55:52.9926702 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T13:03:13.1865524 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T14:35:13.1514148 401 : [no body]
+2022-07-06T17:30:44.3621654 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-06T17:30:32.384446 404 : [{"timestamp":"2022-07-06T21:30:32.343+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-07-06T19:02:56.2754381 404 : [{"timestamp":"2022-07-06T23:02:56.257+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-07-06T19:03:56.9799069 404 : [{"timestamp":"2022-07-06T23:03:56.950+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-07-06T19:09:15.7734368 404 : [{"timestamp":"2022-07-06T23:09:15.749+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
